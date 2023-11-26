@@ -1,4 +1,4 @@
-# ¡Hola! Soy José Angel Hernández Gutiérrez 👋
+# ¡Hola! Soy José Angel HG 👋
 
 ### Acerca de Mí
 - 👨‍💻 Desarrollador de Software y CTO en [Creare Club](https://www.creare.club/).
